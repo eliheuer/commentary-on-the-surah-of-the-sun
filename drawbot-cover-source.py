@@ -74,4 +74,4 @@ fontSize(50)
 tracking(-4)
 
 # Save PDF
-saveImage("cover-design.png")
+saveImage("cover-design.pdf")
